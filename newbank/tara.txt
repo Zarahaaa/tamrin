@@ -1,0 +1,12 @@
+id 120  balance  11   done
+id 121  balance  13   done
+id 120  balance  11   done
+id 121  balance  13   done
+id 120  balance  10   done        
+id 121  balance  14   done
+id 120  balance  10   done
+id 121  balance  14   done
+id 110  balance  14   done
+id =110,  balance = 14,   done
+id 441  balance  41   done        
+id =441,  balance = 41,   done
